@@ -1,0 +1,34 @@
+_repo: Observations-on-the-new-constitution-and-on-the-Federal-and-State-conventions-by-a-Columbian-__72627
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Towner, Lawrence W.
+    gutenberg_agent_id: '56753'
+    url: http://www.gutenberg.org/2009/agents/56753
+creator:
+  author:
+    agent_name: Warren, Mercy Otis
+    birthdate: 1728
+    deathdate: 1814
+    gutenberg_agent_id: '33784'
+    url: http://www.gutenberg.org/2009/agents/33784
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72627'
+language: en
+pgterms:marc905: 20230811024422warren
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bThe Old South Association, $c1955.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Observations on the new constitution, and on the Federal and State conventions
+  by a Columbian patriot
+url: http://www.gutenberg.org/ebooks/72627
