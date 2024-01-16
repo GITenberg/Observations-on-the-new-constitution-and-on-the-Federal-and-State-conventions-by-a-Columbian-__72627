@@ -5,6 +5,9 @@ contributor:
     agent_name: Towner, Lawrence W.
     gutenberg_agent_id: '56753'
     url: http://www.gutenberg.org/2009/agents/56753
+covers:
+- cover_type: archival
+  image_path: 72627-h/images/cover.jpg
 creator:
   author:
     agent_name: Warren, Mercy Otis
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '33784'
     url: http://www.gutenberg.org/2009/agents/33784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72627#Observations-on-the-new-constitution-and-on-the-Federal-and-State-conventions-by-a-Columbian-_
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
